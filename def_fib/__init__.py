@@ -7,4 +7,4 @@ Original file is located at
     https://colab.research.google.com/drive/1lrctwN-AWdFHgotmPxw7dw-CSmamoqHZ
 """
 
-from .code import def_fib
+from .code import fib
